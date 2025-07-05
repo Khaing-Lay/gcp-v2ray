@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "ba0e3984-ccc9-48a3-8074-b2f507f41ce8",
+            "id": "7ab9401b-e602-4481-b360-05c3cae35376",
             "level": 0
           }
         ],
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/tg-@nkka404"
+          "path": "/tg-@Zero_Free_Vpn"
         }
       }
     }
